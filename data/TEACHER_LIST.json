@@ -1,0 +1,309 @@
+{
+  "teachers": [
+    {
+      "empid": "EMP001",
+      "teacher_name": "Anita Sharma",
+      "max_periods_per_day": 6,
+      "available_periods": [1,2,3,4,5,6],
+      "subjects": [
+        {"subject_name":"English","classes":["NUR","LKG","UKG","I","II","III"]},
+        {"subject_name":"EVS","classes":["NUR","LKG","UKG","I","II"]},
+        {"subject_name":"GK","classes":["I","II","III"]}
+      ]
+    },
+    {
+      "empid": "EMP002",
+      "teacher_name": "Priya Singh",
+      "max_periods_per_day": 6,
+      "available_periods": [1,2,3,4,5,6],
+      "subjects": [
+        {"subject_name":"English","classes":["II","III","IV","V"]},
+        {"subject_name":"EVS","classes":["III","IV","V"]},
+        {"subject_name":"GK","classes":["IV","V"]}
+      ]
+    },
+    {
+      "empid": "EMP003",
+      "teacher_name": "Rajesh Kumar",
+      "max_periods_per_day": 5,
+      "available_periods": [1,2,3,4,5],
+      "subjects": [
+        {"subject_name":"English","classes":["VI","VII","VIII"]},
+        {"subject_name":"Social Science","classes":["VI","VII"]}
+      ]
+    },
+    {
+      "empid": "EMP004",
+      "teacher_name": "Nidhi Verma",
+      "max_periods_per_day": 5,
+      "available_periods": [2,3,4,5,6],
+      "subjects": [
+        {"subject_name":"English","classes":["IX","X","XI","XII"]},
+        {"subject_name":"Social Science","classes":["IX","X"]}
+      ]
+    },
+
+    {
+      "empid": "EMP005",
+      "teacher_name": "Sunita Devi",
+      "max_periods_per_day": 6,
+      "available_periods": [1,2,3,4,5,6],
+      "subjects": [
+        {"subject_name":"Hindi","classes":["NUR","LKG","UKG","I","II","III"]},
+        {"subject_name":"EVS","classes":["NUR","LKG","UKG"]}
+      ]
+    },
+    {
+      "empid": "EMP006",
+      "teacher_name": "Meena Kumari",
+      "max_periods_per_day": 6,
+      "available_periods": [1,2,3,4,5,6],
+      "subjects": [
+        {"subject_name":"Hindi","classes":["III","IV","V","VI"]},
+        {"subject_name":"EVS","classes":["IV","V"]}
+      ]
+    },
+    {
+      "empid": "EMP007",
+      "teacher_name": "Amit Jha",
+      "max_periods_per_day": 5,
+      "available_periods": [1,2,3,4,5],
+      "subjects": [
+        {"subject_name":"Hindi","classes":["VII","VIII","IX","X"]},
+        {"subject_name":"Sanskrit","classes":["VI","VII","VIII"]}
+      ]
+    },
+    {
+      "empid": "EMP008",
+      "teacher_name": "Rakesh Mishra",
+      "max_periods_per_day": 4,
+      "available_periods": [2,3,4,5],
+      "subjects": [
+        {"subject_name":"Hindi","classes":["IX","X"]},
+        {"subject_name":"Sanskrit","classes":["VI","VII","VIII"]}
+      ]
+    },
+
+    {
+      "empid": "EMP009",
+      "teacher_name": "Suresh Yadav",
+      "max_periods_per_day": 6,
+      "available_periods": [1,2,3,4,5,6],
+      "subjects": [
+        {"subject_name":"Mathematics","classes":["NUR","LKG","UKG","I","II"]},
+        {"subject_name":"Computer","classes":["I","II"]}
+      ]
+    },
+    {
+      "empid": "EMP010",
+      "teacher_name": "Vikas Kumar",
+      "max_periods_per_day": 6,
+      "available_periods": [1,2,3,4,5,6],
+      "subjects": [
+        {"subject_name":"Mathematics","classes":["III","IV","V","VI"]},
+        {"subject_name":"Computer","classes":["III","IV","V"]}
+      ]
+    },
+	{
+	  "empid": "EMP011",
+	  "teacher_name": "Pradeep Sinha",
+	  "max_periods_per_day": 6,
+	  "available_periods": [1,2,3,4,5,6],
+	  "subjects": [
+		{"subject_name":"Mathematics","classes":["VII","VIII","IX"]},
+		{"subject_name":"Science","classes":["VI","VII"]}
+	  ]
+	},
+	{
+	  "empid": "EMP012",
+	  "teacher_name": "Arvind Kumar",
+	  "max_periods_per_day": 5,
+	  "available_periods": [1,2,3,4,5],
+	  "subjects": [
+		{"subject_name":"Mathematics","classes":["X","XI","XII"]},
+		{"subject_name":"Physics","classes":["XI","XII"]}
+	  ]
+	},
+	{
+	  "empid": "EMP013",
+	  "teacher_name": "Pooja Verma",
+	  "max_periods_per_day": 6,
+	  "available_periods": [1,2,3,4,5,6],
+	  "subjects": [
+		{"subject_name":"Science","classes":["VI","VII","VIII"]},
+		{"subject_name":"Mathematics","classes":["VI","VII"]}
+	  ]
+	},
+	{
+	  "empid": "EMP014",
+	  "teacher_name": "Deepak Anand",
+	  "max_periods_per_day": 5,
+	  "available_periods": [1,2,3,4,5],
+	  "subjects": [
+		{"subject_name":"Science","classes":["IX","X"]},
+		{"subject_name":"Chemistry","classes":["XI","XII"]}
+	  ]
+	},
+	{
+	  "empid": "EMP015",
+	  "teacher_name": "Neeraj Singh",
+	  "max_periods_per_day": 5,
+	  "available_periods": [2,3,4,5,6],
+	  "subjects": [
+		{"subject_name":"Science","classes":["VIII","IX","X"]},
+		{"subject_name":"Chemistry","classes":["XI","XII"]}
+	  ]
+	},
+	{
+	  "empid": "EMP016",
+	  "teacher_name": "Mukesh Kumar",
+	  "max_periods_per_day": 6,
+	  "available_periods": [1,2,3,4,5,6],
+	  "subjects": [
+		{"subject_name":"Social Science","classes":["VI","VII","VIII"]},
+		{"subject_name":"English","classes":["VI","VII"]}
+	  ]
+	},
+	{
+	  "empid": "EMP017",
+	  "teacher_name": "Vivek Anand",
+	  "max_periods_per_day": 5,
+	  "available_periods": [1,2,3,4,5],
+	  "subjects": [
+		{"subject_name":"Social Science","classes":["IX","X"]},
+		{"subject_name":"English","classes":["VIII","IX"]}
+	  ]
+	},
+	{
+	  "empid": "EMP018",
+	  "teacher_name": "Sanjay Gupta",
+	  "max_periods_per_day": 5,
+	  "available_periods": [2,3,4,5,6],
+	  "subjects": [
+		{"subject_name":"Social Science","classes":["VI","VII","VIII"]},
+		{"subject_name":"Hindi","classes":["VI","VII"]}
+	  ]
+	},
+	{
+	  "empid": "EMP019",
+	  "teacher_name": "Shashank Jha",
+	  "max_periods_per_day": 5,
+	  "available_periods": [1,2,3,4,5],
+	  "subjects": [
+		{"subject_name":"Sanskrit","classes":["VI","VII","VIII"]},
+		{"subject_name":"Hindi","classes":["VI","VII"]}
+	  ]
+	},
+	{
+	  "empid": "EMP020",
+	  "teacher_name": "Anil Kumar",
+	  "max_periods_per_day": 4,
+	  "available_periods": [2,3,4,5],
+	  "subjects": [
+		{"subject_name":"Sanskrit","classes":["VI","VII","VIII"]},
+		{"subject_name":"Hindi","classes":["VIII","IX"]}
+	  ]
+	},
+	{
+	  "empid": "EMP021",
+	  "teacher_name": "Rahul Verma",
+	  "max_periods_per_day": 6,
+	  "available_periods": [1,2,3,4,5,6],
+	  "subjects": [
+		{"subject_name":"Computer","classes":["I","II","III","IV","V"]},
+		{"subject_name":"GK","classes":["I","II","III"]}
+	  ]
+	},
+	{
+	  "empid": "EMP022",
+	  "teacher_name": "Abhishek Kumar",
+	  "max_periods_per_day": 6,
+	  "available_periods": [1,2,3,4,5,6],
+	  "subjects": [
+		{"subject_name":"Computer","classes":["VI","VII","VIII","IX","X"]},
+		{"subject_name":"Computer Science","classes":["XI","XII"]}
+	  ]
+	},
+	{
+	  "empid": "EMP023",
+	  "teacher_name": "Manoj Kumar",
+	  "max_periods_per_day": 4,
+	  "available_periods": [2,3,4,5],
+	  "subjects": [
+		{"subject_name":"Physics","classes":["XI","XII"]},
+		{"subject_name":"Mathematics","classes":["XI","XII"]}
+	  ]
+	},
+	{
+	  "empid": "EMP024",
+	  "teacher_name": "Kamal Singh",
+	  "max_periods_per_day": 4,
+	  "available_periods": [1,2,3,4],
+	  "subjects": [
+		{"subject_name":"Physics","classes":["XI","XII"]},
+		{"subject_name":"Science","classes":["IX","X"]}
+	  ]
+	},
+	{
+	  "empid": "EMP025",
+	  "teacher_name": "Rekha Sinha",
+	  "max_periods_per_day": 4,
+	  "available_periods": [2,3,4,5],
+	  "subjects": [
+		{"subject_name":"Chemistry","classes":["XI","XII"]},
+		{"subject_name":"Science","classes":["IX","X"]}
+	  ]
+	},
+	{
+	  "empid": "EMP026",
+	  "teacher_name": "Ritu Sharma",
+	  "max_periods_per_day": 4,
+	  "available_periods": [2,3,4,5],
+	  "subjects": [
+		{"subject_name":"Drawing","classes":["NUR","LKG","UKG","I","II","III","IV","V"]},
+		{"subject_name":"GK","classes":["I","II","III","IV","V"]}
+	  ]
+	},
+	{
+	  "empid": "EMP027",
+	  "teacher_name": "Ajay Thakur",
+	  "max_periods_per_day": 4,
+	  "available_periods": [3,4,5,6],
+	  "subjects": [
+		{"subject_name":"Games","classes":["NUR","LKG","UKG","I","II","III","IV","V","VI","VII","VIII"]},
+		{"subject_name":"Physical Education","classes":["XI","XII"]}
+	  ]
+	},
+	{
+	  "empid": "EMP028",
+	  "teacher_name": "Kiran Devi",
+	  "max_periods_per_day": 5,
+	  "available_periods": [1,2,3,4,5],
+	  "subjects": [
+		{"subject_name":"English","classes":["IV","V","VI"]},
+		{"subject_name":"Social Science","classes":["VI","VII","VIII"]}
+	  ]
+	},
+	{
+	  "empid": "EMP029",
+	  "teacher_name": "Alok Ranjan",
+	  "max_periods_per_day": 5,
+	  "available_periods": [2,3,4,5,6],
+	  "subjects": [
+		{"subject_name":"Mathematics","classes":["VII","VIII","IX","X"]},
+		{"subject_name":"Computer","classes":["VI","VII","VIII"]}
+	  ]
+	},
+	{
+	  "empid": "EMP030",
+	  "teacher_name": "Pankaj Verma",
+	  "max_periods_per_day": 6,
+	  "available_periods": [1,2,3,4,5,6],
+	  "subjects": [
+		{"subject_name":"Mathematics","classes":["VI","VII","VIII"]},
+		{"subject_name":"Science","classes":["VI","VII","VIII"]},
+		{"subject_name":"Computer","classes":["VI","VII","VIII"]}
+	  ]
+	}
+  ]
+}

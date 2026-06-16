@@ -1,0 +1,335 @@
+{
+  "classes": [
+    {
+      "class_name": "NUR",
+      "rank": 1,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 5,
+        "TUE": 5,
+        "WED": 5,
+        "THU": 5,
+        "FRI": 5,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 5 },
+        { "subject_name": "Hindi", "periods_per_week": 5 },
+        { "subject_name": "Mathematics", "periods_per_week": 5 },
+        { "subject_name": "EVS", "periods_per_week": 4 },
+        { "subject_name": "Drawing", "periods_per_week": 2 },
+        { "subject_name": "Games", "periods_per_week": 2 }
+      ]
+    },
+    {
+      "class_name": "LKG",
+      "rank": 2,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 5,
+        "TUE": 5,
+        "WED": 5,
+        "THU": 5,
+        "FRI": 5,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 5 },
+        { "subject_name": "Hindi", "periods_per_week": 5 },
+        { "subject_name": "Mathematics", "periods_per_week": 5 },
+        { "subject_name": "EVS", "periods_per_week": 4 },
+        { "subject_name": "Drawing", "periods_per_week": 2 },
+        { "subject_name": "Games", "periods_per_week": 2 }
+      ]
+    },
+    {
+      "class_name": "UKG",
+      "rank": 3,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 5,
+        "TUE": 5,
+        "WED": 5,
+        "THU": 5,
+        "FRI": 5,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 5 },
+        { "subject_name": "Hindi", "periods_per_week": 5 },
+        { "subject_name": "Mathematics", "periods_per_week": 5 },
+        { "subject_name": "EVS", "periods_per_week": 4 },
+        { "subject_name": "Drawing", "periods_per_week": 2 },
+        { "subject_name": "Games", "periods_per_week": 2 }
+      ]
+    },
+    {
+      "class_name": "I",
+      "rank": 4,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 6,
+        "TUE": 6,
+        "WED": 6,
+        "THU": 6,
+        "FRI": 6,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 6 },
+        { "subject_name": "Hindi", "periods_per_week": 6 },
+        { "subject_name": "Mathematics", "periods_per_week": 6 },
+        { "subject_name": "EVS", "periods_per_week": 5 },
+        { "subject_name": "Computer", "periods_per_week": 2 },
+        { "subject_name": "GK", "periods_per_week": 2 },
+        { "subject_name": "Drawing", "periods_per_week": 2 },
+        { "subject_name": "Games", "periods_per_week": 2 }
+      ]
+    },
+    {
+      "class_name": "II",
+      "rank": 5,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 6,
+        "TUE": 6,
+        "WED": 6,
+        "THU": 6,
+        "FRI": 6,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 6 },
+        { "subject_name": "Hindi", "periods_per_week": 6 },
+        { "subject_name": "Mathematics", "periods_per_week": 6 },
+        { "subject_name": "EVS", "periods_per_week": 5 },
+        { "subject_name": "Computer", "periods_per_week": 2 },
+        { "subject_name": "GK", "periods_per_week": 2 },
+        { "subject_name": "Drawing", "periods_per_week": 2 },
+        { "subject_name": "Games", "periods_per_week": 2 }
+      ]
+    },
+    {
+      "class_name": "III",
+      "rank": 6,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 6,
+        "TUE": 6,
+        "WED": 6,
+        "THU": 6,
+        "FRI": 6,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 6 },
+        { "subject_name": "Hindi", "periods_per_week": 6 },
+        { "subject_name": "Mathematics", "periods_per_week": 6 },
+        { "subject_name": "EVS", "periods_per_week": 5 },
+        { "subject_name": "Computer", "periods_per_week": 2 },
+        { "subject_name": "GK", "periods_per_week": 2 },
+        { "subject_name": "Drawing", "periods_per_week": 2 },
+        { "subject_name": "Games", "periods_per_week": 2 }
+      ]
+    },
+    {
+      "class_name": "IV",
+      "rank": 7,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 6,
+        "TUE": 6,
+        "WED": 6,
+        "THU": 6,
+        "FRI": 6,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 6 },
+        { "subject_name": "Hindi", "periods_per_week": 6 },
+        { "subject_name": "Mathematics", "periods_per_week": 6 },
+        { "subject_name": "EVS", "periods_per_week": 5 },
+        { "subject_name": "Computer", "periods_per_week": 2 },
+        { "subject_name": "GK", "periods_per_week": 2 },
+        { "subject_name": "Drawing", "periods_per_week": 2 },
+        { "subject_name": "Games", "periods_per_week": 2 }
+      ]
+    },
+    {
+      "class_name": "V",
+      "rank": 8,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 6,
+        "TUE": 6,
+        "WED": 6,
+        "THU": 6,
+        "FRI": 6,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 6 },
+        { "subject_name": "Hindi", "periods_per_week": 6 },
+        { "subject_name": "Mathematics", "periods_per_week": 6 },
+        { "subject_name": "EVS", "periods_per_week": 5 },
+        { "subject_name": "Computer", "periods_per_week": 2 },
+        { "subject_name": "GK", "periods_per_week": 2 },
+        { "subject_name": "Drawing", "periods_per_week": 2 },
+        { "subject_name": "Games", "periods_per_week": 2 }
+      ]
+    },
+    {
+      "class_name": "VI",
+      "rank": 9,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 6,
+        "TUE": 6,
+        "WED": 6,
+        "THU": 6,
+        "FRI": 6,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 5 },
+        { "subject_name": "Hindi", "periods_per_week": 5 },
+        { "subject_name": "Mathematics", "periods_per_week": 6 },
+        { "subject_name": "Science", "periods_per_week": 5 },
+        { "subject_name": "Social Science", "periods_per_week": 5 },
+        { "subject_name": "Sanskrit", "periods_per_week": 3 },
+        { "subject_name": "Computer", "periods_per_week": 2 },
+        { "subject_name": "Games", "periods_per_week": 2 }
+      ]
+    },
+    {
+      "class_name": "VII",
+      "rank": 10,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 6,
+        "TUE": 6,
+        "WED": 6,
+        "THU": 6,
+        "FRI": 6,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 5 },
+        { "subject_name": "Hindi", "periods_per_week": 5 },
+        { "subject_name": "Mathematics", "periods_per_week": 6 },
+        { "subject_name": "Science", "periods_per_week": 5 },
+        { "subject_name": "Social Science", "periods_per_week": 5 },
+        { "subject_name": "Sanskrit", "periods_per_week": 3 },
+        { "subject_name": "Computer", "periods_per_week": 2 },
+        { "subject_name": "Games", "periods_per_week": 2 }
+      ]
+    },
+    {
+      "class_name": "VIII",
+      "rank": 11,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 6,
+        "TUE": 6,
+        "WED": 6,
+        "THU": 6,
+        "FRI": 6,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 5 },
+        { "subject_name": "Hindi", "periods_per_week": 5 },
+        { "subject_name": "Mathematics", "periods_per_week": 6 },
+        { "subject_name": "Science", "periods_per_week": 5 },
+        { "subject_name": "Social Science", "periods_per_week": 5 },
+        { "subject_name": "Sanskrit", "periods_per_week": 3 },
+        { "subject_name": "Computer", "periods_per_week": 2 },
+        { "subject_name": "Games", "periods_per_week": 2 }
+      ]
+    },
+    {
+      "class_name": "IX",
+      "rank": 12,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 5,
+        "TUE": 5,
+        "WED": 5,
+        "THU": 5,
+        "FRI": 5,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 5 },
+        { "subject_name": "Hindi", "periods_per_week": 5 },
+        { "subject_name": "Mathematics", "periods_per_week": 6 },
+        { "subject_name": "Science", "periods_per_week": 6 },
+        { "subject_name": "Social Science", "periods_per_week": 5 },
+        { "subject_name": "Computer", "periods_per_week": 1 }
+      ]
+    },
+    {
+      "class_name": "X",
+      "rank": 13,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 5,
+        "TUE": 5,
+        "WED": 5,
+        "THU": 5,
+        "FRI": 5,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 5 },
+        { "subject_name": "Hindi", "periods_per_week": 5 },
+        { "subject_name": "Mathematics", "periods_per_week": 6 },
+        { "subject_name": "Science", "periods_per_week": 6 },
+        { "subject_name": "Social Science", "periods_per_week": 5 },
+        { "subject_name": "Computer", "periods_per_week": 1 }
+      ]
+    },
+    {
+      "class_name": "XI",
+      "rank": 14,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 5,
+        "TUE": 5,
+        "WED": 5,
+        "THU": 5,
+        "FRI": 5,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 4 },
+        { "subject_name": "Physics", "periods_per_week": 5 },
+        { "subject_name": "Chemistry", "periods_per_week": 5 },
+        { "subject_name": "Mathematics", "periods_per_week": 5 },
+        { "subject_name": "Computer Science", "periods_per_week": 4 },
+        { "subject_name": "Physical Education", "periods_per_week": 2 }
+      ]
+    },
+    {
+      "class_name": "XII",
+      "rank": 15,
+      "sections": ["A", "B"],
+      "working_days": {
+        "MON": 5,
+        "TUE": 5,
+        "WED": 5,
+        "THU": 5,
+        "FRI": 5,
+        "SAT": 3
+      },
+      "subjects": [
+        { "subject_name": "English", "periods_per_week": 4 },
+        { "subject_name": "Physics", "periods_per_week": 5 },
+        { "subject_name": "Chemistry", "periods_per_week": 5 },
+        { "subject_name": "Mathematics", "periods_per_week": 5 },
+        { "subject_name": "Computer Science", "periods_per_week": 4 },
+        { "subject_name": "Physical Education", "periods_per_week": 2 }
+      ]
+    }
+  ]
+}
