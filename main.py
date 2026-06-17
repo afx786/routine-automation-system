@@ -2,6 +2,7 @@ from scheduler.data_loader import load_teachers, load_classes
 from scheduler.ranking import rank_classes
 from scheduler.allocator import get_eligible_teachers
 from scheduler.ranking import rank_teachers
+from scheduler.allocator import assign_teacher_to_subject
 teachers = load_teachers()
 classes = load_classes()
 
@@ -30,3 +31,8 @@ ranked = rank_teachers(eligible)
 
 for teacher in ranked:
     print (teacher["empid"], teacher["teacher_name"])
+    
+teacher = load_teachers
+teacher = assign_teacher_to_subject(teachers["teachers"], "VI", "Mathematics")
+
+print(teacher["empid"], teacher["teacher_name"])

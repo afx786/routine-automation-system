@@ -1,3 +1,6 @@
+from scheduler.ranking import rank_teachers
+
+
 def get_eligible_teachers(teachers, class_name, subject_name):
     
     eligible = []
@@ -9,3 +12,10 @@ def get_eligible_teachers(teachers, class_name, subject_name):
                 eligible.append(teacher)
                 
     return eligible
+
+def assign_teacher_to_subject(teacher, subject_name, class_name):
+    eligible = get_eligible_teachers(teacher, subject_name, class_name)
+    if not eligible:
+        return None
+    ranked = rank_teachers(eligible)
+    return ranked[0]
