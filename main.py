@@ -3,6 +3,7 @@ from scheduler.ranking import rank_classes
 from scheduler.allocator import get_eligible_teachers
 from scheduler.ranking import rank_teachers
 from scheduler.allocator import assign_teacher_to_subject
+from scheduler.generator import generate_subject_teacher_mapping
 teachers = load_teachers()
 classes = load_classes()
 
@@ -36,3 +37,6 @@ teacher = load_teachers
 teacher = assign_teacher_to_subject(teachers["teachers"], "VI", "Mathematics")
 
 print(teacher["empid"], teacher["teacher_name"])
+
+mapping = generate_subject_teacher_mapping(teachers, classes)
+print(mapping["VI-A"])
