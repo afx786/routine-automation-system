@@ -4,6 +4,8 @@ from scheduler.allocator import get_eligible_teachers
 from scheduler.ranking import rank_teachers
 from scheduler.allocator import assign_teacher_to_subject
 from scheduler.generator import generate_subject_teacher_mapping
+from scheduler.workload import initialize_workload
+from scheduler.workload import assign_workload
 teachers = load_teachers()
 classes = load_classes()
 
@@ -40,3 +42,11 @@ print(teacher["empid"], teacher["teacher_name"])
 
 mapping = generate_subject_teacher_mapping(teachers, classes)
 print(mapping["VI-A"])
+
+workload = initialize_workload(teachers["teachers"])
+print(workload["EMP010"])
+
+teacher = teachers["teachers"][0]
+assign_workload(workload, teacher, "VI-A", "Mathematics")
+assign_workload(workload, teacher, "VI-B", "Mathematics")
+print(workload[teacher["empid"]])
