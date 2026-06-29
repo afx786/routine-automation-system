@@ -6,6 +6,7 @@ from scheduler.allocator import assign_teacher_to_subject
 from scheduler.generator import generate_subject_teacher_mapping
 from scheduler.workload import initialize_workload
 from scheduler.workload import assign_workload
+from scheduler.timetable import initialize_timetable
 teachers = load_teachers()
 classes = load_classes()
 
@@ -50,3 +51,7 @@ teacher = teachers["teachers"][0]
 assign_workload(workload, teacher, "VI-A", "Mathematics")
 assign_workload(workload, teacher, "VI-B", "Mathematics")
 print(workload[teacher["empid"]])
+
+classes = load_classes()
+timetable = initialize_timetable(classes)
+print(timetable["VI-A"])
