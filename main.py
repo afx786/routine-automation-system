@@ -7,6 +7,7 @@ from scheduler.generator import generate_subject_teacher_mapping
 from scheduler.workload import initialize_workload
 from scheduler.workload import assign_workload
 from scheduler.timetable import initialize_timetable
+from scheduler.checks import is_class_free
 teachers = load_teachers()
 classes = load_classes()
 
@@ -55,3 +56,5 @@ print(workload[teacher["empid"]])
 classes = load_classes()
 timetable = initialize_timetable(classes)
 print(timetable["VI-A"])
+
+print(is_class_free(timetable, "VI-A", "MON", 1))
