@@ -8,6 +8,7 @@ from scheduler.workload import initialize_workload
 from scheduler.workload import assign_workload
 from scheduler.timetable import initialize_timetable
 from scheduler.checks import is_class_free
+from scheduler.checks import is_teacher_free
 teachers = load_teachers()
 classes = load_classes()
 
@@ -57,4 +58,8 @@ classes = load_classes()
 timetable = initialize_timetable(classes)
 print(timetable["VI-A"])
 
-print(is_class_free(timetable, "VI-A", "MON", 1))
+
+
+timetable["VI-A"]["MON"][1] = {"subject": "Mathermatics", "teacher_id": "EMP001"}
+print(is_teacher_free(timetable, "EMP001", "MON", 1))
+print(is_teacher_free(timetable, "EMP002", "MON", 1))
