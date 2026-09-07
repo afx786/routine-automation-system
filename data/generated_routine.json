@@ -1,0 +1,3910 @@
+{
+  "NUR-A": {
+    "MON": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "TUE": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "WED": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "THU": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "FRI": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "SAT": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "NUR-B": {
+    "MON": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "TUE": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "WED": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "THU": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "FRI": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "SAT": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "LKG-A": {
+    "MON": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "TUE": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "WED": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "THU": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "FRI": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "SAT": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "LKG-B": {
+    "MON": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "TUE": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "WED": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "THU": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "FRI": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "SAT": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "UKG-A": {
+    "MON": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "TUE": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "6": null
+    },
+    "WED": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "6": null
+    },
+    "THU": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": {
+        "subject": "Drawing",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "6": null
+    },
+    "FRI": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "6": null
+    },
+    "SAT": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "UKG-B": {
+    "MON": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "TUE": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "WED": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "THU": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "FRI": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "SAT": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "I-A": {
+    "MON": {
+      "1": null,
+      "2": null,
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "4": null,
+      "5": null,
+      "6": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      }
+    },
+    "TUE": {
+      "1": null,
+      "2": null,
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "4": null,
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "6": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      }
+    },
+    "WED": {
+      "1": null,
+      "2": null,
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "4": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "6": null
+    },
+    "THU": {
+      "1": null,
+      "2": null,
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "4": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "6": null
+    },
+    "FRI": {
+      "1": null,
+      "2": null,
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "4": {
+        "subject": "GK",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "6": null
+    },
+    "SAT": {
+      "1": null,
+      "2": null,
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "I-B": {
+    "MON": {
+      "1": null,
+      "2": null,
+      "3": {
+        "subject": "Games",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "6": null
+    },
+    "TUE": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "5": null,
+      "6": null
+    },
+    "WED": {
+      "1": null,
+      "2": null,
+      "3": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "5": null,
+      "6": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      }
+    },
+    "THU": {
+      "1": null,
+      "2": null,
+      "3": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "5": null,
+      "6": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      }
+    },
+    "FRI": {
+      "1": null,
+      "2": null,
+      "3": {
+        "subject": "GK",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "5": null,
+      "6": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      }
+    },
+    "SAT": {
+      "1": null,
+      "2": null,
+      "3": {
+        "subject": "GK",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "II-A": {
+    "MON": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "2": null,
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "5": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "6": {
+        "subject": "EVS",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      }
+    },
+    "TUE": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "2": null,
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "4": null,
+      "5": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "6": {
+        "subject": "EVS",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      }
+    },
+    "WED": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "2": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "5": {
+        "subject": "EVS",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "6": {
+        "subject": "GK",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      }
+    },
+    "THU": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "2": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "5": {
+        "subject": "EVS",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "6": {
+        "subject": "GK",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      }
+    },
+    "FRI": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "2": null,
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "5": {
+        "subject": "EVS",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "6": null
+    },
+    "SAT": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "2": {
+        "subject": "Drawing",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "II-B": {
+    "MON": {
+      "1": null,
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "3": {
+        "subject": "Drawing",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "4": null,
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "6": null
+    },
+    "TUE": {
+      "1": null,
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "3": {
+        "subject": "Games",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "5": null,
+      "6": null
+    },
+    "WED": {
+      "1": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "4": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "5": {
+        "subject": "GK",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "6": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      }
+    },
+    "THU": {
+      "1": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "4": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "5": {
+        "subject": "GK",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "6": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      }
+    },
+    "FRI": {
+      "1": null,
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "4": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "5": null,
+      "6": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      }
+    },
+    "SAT": {
+      "1": null,
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP009",
+        "teacher_name": "Suresh Yadav"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "III-A": {
+    "MON": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "2": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "3": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "4": {
+        "subject": "GK",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "5": {
+        "subject": "Drawing",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "6": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      }
+    },
+    "TUE": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "2": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "3": {
+        "subject": "GK",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "4": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "5": {
+        "subject": "Drawing",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "6": null
+    },
+    "WED": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "2": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "3": {
+        "subject": "Games",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "4": null,
+      "5": null,
+      "6": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      }
+    },
+    "THU": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "2": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "3": {
+        "subject": "Games",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "4": null,
+      "5": null,
+      "6": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      }
+    },
+    "FRI": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "2": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      }
+    },
+    "SAT": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "2": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "III-B": {
+    "MON": {
+      "1": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "3": {
+        "subject": "GK",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "4": {
+        "subject": "Drawing",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "5": null,
+      "6": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      }
+    },
+    "TUE": {
+      "1": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "3": {
+        "subject": "Drawing",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "4": {
+        "subject": "GK",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "5": null,
+      "6": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      }
+    },
+    "WED": {
+      "1": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "3": null,
+      "4": {
+        "subject": "Games",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "5": null,
+      "6": null
+    },
+    "THU": {
+      "1": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "FRI": {
+      "1": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    },
+    "SAT": {
+      "1": {
+        "subject": "Hindi",
+        "teacher_id": "EMP005",
+        "teacher_name": "Sunita Devi"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP001",
+        "teacher_name": "Anita Sharma"
+      },
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "IV-A": {
+    "MON": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "2": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "4": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "6": null
+    },
+    "TUE": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "2": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "4": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "6": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      }
+    },
+    "WED": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "2": null,
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "4": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "6": null
+    },
+    "THU": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "2": null,
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "4": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "6": null
+    },
+    "FRI": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "2": {
+        "subject": "GK",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "4": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "6": null
+    },
+    "SAT": {
+      "1": null,
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "IV-B": {
+    "MON": {
+      "1": null,
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "4": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "5": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "6": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      }
+    },
+    "TUE": {
+      "1": null,
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "3": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "4": {
+        "subject": "GK",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "5": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "6": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      }
+    },
+    "WED": {
+      "1": null,
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "3": {
+        "subject": "GK",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "4": {
+        "subject": "Drawing",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "5": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "6": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      }
+    },
+    "THU": {
+      "1": null,
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "3": {
+        "subject": "Drawing",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "4": {
+        "subject": "Games",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "5": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "6": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      }
+    },
+    "FRI": {
+      "1": null,
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "3": {
+        "subject": "Games",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "4": null,
+      "5": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "6": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      }
+    },
+    "SAT": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "V-A": {
+    "MON": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "2": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "5": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "6": null
+    },
+    "TUE": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "2": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "5": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "6": null
+    },
+    "WED": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "2": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "5": {
+        "subject": "GK",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "6": null
+    },
+    "THU": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "2": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "5": {
+        "subject": "GK",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "6": null
+    },
+    "FRI": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "2": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "5": {
+        "subject": "Drawing",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "6": null
+    },
+    "SAT": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "2": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "V-B": {
+    "MON": {
+      "1": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "2": {
+        "subject": "GK",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "6": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      }
+    },
+    "TUE": {
+      "1": {
+        "subject": "Computer",
+        "teacher_id": "EMP021",
+        "teacher_name": "Rahul Verma"
+      },
+      "2": {
+        "subject": "GK",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "6": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      }
+    },
+    "WED": {
+      "1": null,
+      "2": {
+        "subject": "Drawing",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "6": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      }
+    },
+    "THU": {
+      "1": null,
+      "2": {
+        "subject": "Drawing",
+        "teacher_id": "EMP026",
+        "teacher_name": "Ritu Sharma"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "6": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      }
+    },
+    "FRI": {
+      "1": null,
+      "2": null,
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "6": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      }
+    },
+    "SAT": {
+      "1": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "3": {
+        "subject": "EVS",
+        "teacher_id": "EMP002",
+        "teacher_name": "Priya Singh"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "VI-A": {
+    "MON": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "2": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "5": null,
+      "6": null
+    },
+    "TUE": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "2": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "5": null,
+      "6": null
+    },
+    "WED": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "2": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "5": {
+        "subject": "Computer",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "6": null
+    },
+    "THU": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "2": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "5": null,
+      "6": null
+    },
+    "FRI": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "2": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "5": null,
+      "6": {
+        "subject": "Computer",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      }
+    },
+    "SAT": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "2": {
+        "subject": "Social Science",
+        "teacher_id": "EMP018",
+        "teacher_name": "Sanjay Gupta"
+      },
+      "3": {
+        "subject": "Social Science",
+        "teacher_id": "EMP018",
+        "teacher_name": "Sanjay Gupta"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "VI-B": {
+    "MON": {
+      "1": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "4": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "5": null,
+      "6": null
+    },
+    "TUE": {
+      "1": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "4": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "5": null,
+      "6": null
+    },
+    "WED": {
+      "1": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "4": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "5": null,
+      "6": null
+    },
+    "THU": {
+      "1": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "4": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "5": null,
+      "6": null
+    },
+    "FRI": {
+      "1": {
+        "subject": "Hindi",
+        "teacher_id": "EMP006",
+        "teacher_name": "Meena Kumari"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "4": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "5": null,
+      "6": {
+        "subject": "Games",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      }
+    },
+    "SAT": {
+      "1": null,
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP010",
+        "teacher_name": "Vikas Kumar"
+      },
+      "3": {
+        "subject": "Sanskrit",
+        "teacher_id": "EMP020",
+        "teacher_name": "Anil Kumar"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "VII-A": {
+    "MON": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP016",
+        "teacher_name": "Mukesh Kumar"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "6": {
+        "subject": "Games",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      }
+    },
+    "TUE": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP016",
+        "teacher_name": "Mukesh Kumar"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "6": {
+        "subject": "Games",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      }
+    },
+    "WED": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP016",
+        "teacher_name": "Mukesh Kumar"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "6": {
+        "subject": "Computer",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      }
+    },
+    "THU": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP016",
+        "teacher_name": "Mukesh Kumar"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "6": {
+        "subject": "Computer",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      }
+    },
+    "FRI": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP016",
+        "teacher_name": "Mukesh Kumar"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "6": null
+    },
+    "SAT": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "2": {
+        "subject": "Sanskrit",
+        "teacher_id": "EMP008",
+        "teacher_name": "Rakesh Mishra"
+      },
+      "3": {
+        "subject": "Sanskrit",
+        "teacher_id": "EMP008",
+        "teacher_name": "Rakesh Mishra"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "VII-B": {
+    "MON": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP016",
+        "teacher_name": "Mukesh Kumar"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "5": {
+        "subject": "Computer",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "6": null
+    },
+    "TUE": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP016",
+        "teacher_name": "Mukesh Kumar"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "5": {
+        "subject": "Computer",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "6": null
+    },
+    "WED": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP016",
+        "teacher_name": "Mukesh Kumar"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "5": {
+        "subject": "Games",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "6": null
+    },
+    "THU": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP016",
+        "teacher_name": "Mukesh Kumar"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "5": {
+        "subject": "Games",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "6": null
+    },
+    "FRI": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP016",
+        "teacher_name": "Mukesh Kumar"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "5": null,
+      "6": null
+    },
+    "SAT": {
+      "1": {
+        "subject": "Social Science",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "3": {
+        "subject": "Social Science",
+        "teacher_id": "EMP028",
+        "teacher_name": "Kiran Devi"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "VIII-A": {
+    "MON": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP007",
+        "teacher_name": "Amit Jha"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP018",
+        "teacher_name": "Sanjay Gupta"
+      },
+      "6": {
+        "subject": "Computer",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      }
+    },
+    "TUE": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP007",
+        "teacher_name": "Amit Jha"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP018",
+        "teacher_name": "Sanjay Gupta"
+      },
+      "6": {
+        "subject": "Computer",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      }
+    },
+    "WED": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP007",
+        "teacher_name": "Amit Jha"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP018",
+        "teacher_name": "Sanjay Gupta"
+      },
+      "6": {
+        "subject": "Games",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      }
+    },
+    "THU": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP007",
+        "teacher_name": "Amit Jha"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP018",
+        "teacher_name": "Sanjay Gupta"
+      },
+      "6": {
+        "subject": "Games",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      }
+    },
+    "FRI": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "3": {
+        "subject": "Hindi",
+        "teacher_id": "EMP007",
+        "teacher_name": "Amit Jha"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP018",
+        "teacher_name": "Sanjay Gupta"
+      },
+      "6": null
+    },
+    "SAT": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "2": {
+        "subject": "Sanskrit",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "3": {
+        "subject": "Sanskrit",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "VIII-B": {
+    "MON": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP007",
+        "teacher_name": "Amit Jha"
+      },
+      "5": {
+        "subject": "Sanskrit",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "6": {
+        "subject": "Social Science",
+        "teacher_id": "EMP018",
+        "teacher_name": "Sanjay Gupta"
+      }
+    },
+    "TUE": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP007",
+        "teacher_name": "Amit Jha"
+      },
+      "5": {
+        "subject": "Sanskrit",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "6": {
+        "subject": "Social Science",
+        "teacher_id": "EMP018",
+        "teacher_name": "Sanjay Gupta"
+      }
+    },
+    "WED": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP007",
+        "teacher_name": "Amit Jha"
+      },
+      "5": {
+        "subject": "Sanskrit",
+        "teacher_id": "EMP019",
+        "teacher_name": "Shashank Jha"
+      },
+      "6": {
+        "subject": "Social Science",
+        "teacher_id": "EMP018",
+        "teacher_name": "Sanjay Gupta"
+      }
+    },
+    "THU": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP007",
+        "teacher_name": "Amit Jha"
+      },
+      "5": {
+        "subject": "Computer",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "6": {
+        "subject": "Social Science",
+        "teacher_id": "EMP018",
+        "teacher_name": "Sanjay Gupta"
+      }
+    },
+    "FRI": {
+      "1": {
+        "subject": "English",
+        "teacher_id": "EMP003",
+        "teacher_name": "Rajesh Kumar"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP013",
+        "teacher_name": "Pooja Verma"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP007",
+        "teacher_name": "Amit Jha"
+      },
+      "5": {
+        "subject": "Computer",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "6": {
+        "subject": "Social Science",
+        "teacher_id": "EMP018",
+        "teacher_name": "Sanjay Gupta"
+      }
+    },
+    "SAT": {
+      "1": null,
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP030",
+        "teacher_name": "Pankaj Verma"
+      },
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "IX-A": {
+    "MON": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP020",
+        "teacher_name": "Anil Kumar"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "6": null
+    },
+    "TUE": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP020",
+        "teacher_name": "Anil Kumar"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "6": null
+    },
+    "WED": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP020",
+        "teacher_name": "Anil Kumar"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "6": null
+    },
+    "THU": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP020",
+        "teacher_name": "Anil Kumar"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "6": null
+    },
+    "FRI": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP020",
+        "teacher_name": "Anil Kumar"
+      },
+      "5": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "6": null
+    },
+    "SAT": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "2": {
+        "subject": "Science",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "3": {
+        "subject": "Computer",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "IX-B": {
+    "MON": {
+      "1": null,
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP020",
+        "teacher_name": "Anil Kumar"
+      },
+      "6": null
+    },
+    "TUE": {
+      "1": null,
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP020",
+        "teacher_name": "Anil Kumar"
+      },
+      "6": null
+    },
+    "WED": {
+      "1": null,
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP020",
+        "teacher_name": "Anil Kumar"
+      },
+      "6": null
+    },
+    "THU": {
+      "1": null,
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP020",
+        "teacher_name": "Anil Kumar"
+      },
+      "6": null
+    },
+    "FRI": {
+      "1": null,
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "4": {
+        "subject": "Science",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP020",
+        "teacher_name": "Anil Kumar"
+      },
+      "6": null
+    },
+    "SAT": {
+      "1": {
+        "subject": "Science",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP011",
+        "teacher_name": "Pradeep Sinha"
+      },
+      "3": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "X-A": {
+    "MON": {
+      "1": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP015",
+        "teacher_name": "Neeraj Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP008",
+        "teacher_name": "Rakesh Mishra"
+      },
+      "5": null,
+      "6": null
+    },
+    "TUE": {
+      "1": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP015",
+        "teacher_name": "Neeraj Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP008",
+        "teacher_name": "Rakesh Mishra"
+      },
+      "5": null,
+      "6": null
+    },
+    "WED": {
+      "1": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP015",
+        "teacher_name": "Neeraj Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP008",
+        "teacher_name": "Rakesh Mishra"
+      },
+      "5": null,
+      "6": null
+    },
+    "THU": {
+      "1": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP015",
+        "teacher_name": "Neeraj Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP008",
+        "teacher_name": "Rakesh Mishra"
+      },
+      "5": null,
+      "6": null
+    },
+    "FRI": {
+      "1": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP015",
+        "teacher_name": "Neeraj Singh"
+      },
+      "4": {
+        "subject": "Hindi",
+        "teacher_id": "EMP008",
+        "teacher_name": "Rakesh Mishra"
+      },
+      "5": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "6": null
+    },
+    "SAT": {
+      "1": null,
+      "2": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "3": {
+        "subject": "Science",
+        "teacher_id": "EMP015",
+        "teacher_name": "Neeraj Singh"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "X-B": {
+    "MON": {
+      "1": null,
+      "2": {
+        "subject": "Science",
+        "teacher_id": "EMP015",
+        "teacher_name": "Neeraj Singh"
+      },
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "4": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP008",
+        "teacher_name": "Rakesh Mishra"
+      },
+      "6": null
+    },
+    "TUE": {
+      "1": null,
+      "2": {
+        "subject": "Science",
+        "teacher_id": "EMP015",
+        "teacher_name": "Neeraj Singh"
+      },
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "4": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP008",
+        "teacher_name": "Rakesh Mishra"
+      },
+      "6": null
+    },
+    "WED": {
+      "1": null,
+      "2": {
+        "subject": "Science",
+        "teacher_id": "EMP015",
+        "teacher_name": "Neeraj Singh"
+      },
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "4": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP008",
+        "teacher_name": "Rakesh Mishra"
+      },
+      "6": null
+    },
+    "THU": {
+      "1": null,
+      "2": {
+        "subject": "Science",
+        "teacher_id": "EMP015",
+        "teacher_name": "Neeraj Singh"
+      },
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "4": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP008",
+        "teacher_name": "Rakesh Mishra"
+      },
+      "6": null
+    },
+    "FRI": {
+      "1": {
+        "subject": "Computer",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "2": {
+        "subject": "Science",
+        "teacher_id": "EMP015",
+        "teacher_name": "Neeraj Singh"
+      },
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "4": {
+        "subject": "Social Science",
+        "teacher_id": "EMP017",
+        "teacher_name": "Vivek Anand"
+      },
+      "5": {
+        "subject": "Hindi",
+        "teacher_id": "EMP008",
+        "teacher_name": "Rakesh Mishra"
+      },
+      "6": null
+    },
+    "SAT": {
+      "1": null,
+      "2": {
+        "subject": "Science",
+        "teacher_id": "EMP015",
+        "teacher_name": "Neeraj Singh"
+      },
+      "3": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP029",
+        "teacher_name": "Alok Ranjan"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "XI-A": {
+    "MON": {
+      "1": {
+        "subject": "Physics",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "2": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP014",
+        "teacher_name": "Deepak Anand"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "5": {
+        "subject": "Physical Education",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "6": null
+    },
+    "TUE": {
+      "1": {
+        "subject": "Physics",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "2": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP014",
+        "teacher_name": "Deepak Anand"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "5": {
+        "subject": "Physical Education",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "6": null
+    },
+    "WED": {
+      "1": {
+        "subject": "Physics",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "2": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP014",
+        "teacher_name": "Deepak Anand"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "5": null,
+      "6": null
+    },
+    "THU": {
+      "1": {
+        "subject": "Physics",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "2": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP014",
+        "teacher_name": "Deepak Anand"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "5": null,
+      "6": null
+    },
+    "FRI": {
+      "1": {
+        "subject": "Physics",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "2": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP014",
+        "teacher_name": "Deepak Anand"
+      },
+      "3": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "5": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "6": null
+    },
+    "SAT": {
+      "1": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "2": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "XI-B": {
+    "MON": {
+      "1": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP014",
+        "teacher_name": "Deepak Anand"
+      },
+      "2": {
+        "subject": "Physics",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "3": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "4": {
+        "subject": "Physical Education",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "6": null
+    },
+    "TUE": {
+      "1": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP014",
+        "teacher_name": "Deepak Anand"
+      },
+      "2": {
+        "subject": "Physics",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "3": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "4": {
+        "subject": "Physical Education",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "6": null
+    },
+    "WED": {
+      "1": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP014",
+        "teacher_name": "Deepak Anand"
+      },
+      "2": {
+        "subject": "Physics",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "3": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "4": null,
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "6": null
+    },
+    "THU": {
+      "1": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP014",
+        "teacher_name": "Deepak Anand"
+      },
+      "2": {
+        "subject": "Physics",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "3": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "4": null,
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "6": null
+    },
+    "FRI": {
+      "1": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP014",
+        "teacher_name": "Deepak Anand"
+      },
+      "2": {
+        "subject": "Physics",
+        "teacher_id": "EMP024",
+        "teacher_name": "Kamal Singh"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "4": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "5": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "6": null
+    },
+    "SAT": {
+      "1": null,
+      "2": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "3": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "XII-A": {
+    "MON": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP012",
+        "teacher_name": "Arvind Kumar"
+      },
+      "2": {
+        "subject": "Physics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "3": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP025",
+        "teacher_name": "Rekha Sinha"
+      },
+      "4": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "5": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "6": null
+    },
+    "TUE": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP012",
+        "teacher_name": "Arvind Kumar"
+      },
+      "2": {
+        "subject": "Physics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "3": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP025",
+        "teacher_name": "Rekha Sinha"
+      },
+      "4": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "5": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "6": null
+    },
+    "WED": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP012",
+        "teacher_name": "Arvind Kumar"
+      },
+      "2": {
+        "subject": "Physics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "3": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP025",
+        "teacher_name": "Rekha Sinha"
+      },
+      "4": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "5": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "6": null
+    },
+    "THU": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP012",
+        "teacher_name": "Arvind Kumar"
+      },
+      "2": {
+        "subject": "Physics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "3": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP025",
+        "teacher_name": "Rekha Sinha"
+      },
+      "4": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "5": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "6": null
+    },
+    "FRI": {
+      "1": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP012",
+        "teacher_name": "Arvind Kumar"
+      },
+      "2": {
+        "subject": "Physics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "3": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP025",
+        "teacher_name": "Rekha Sinha"
+      },
+      "4": {
+        "subject": "Physical Education",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "5": null,
+      "6": null
+    },
+    "SAT": {
+      "1": null,
+      "2": null,
+      "3": {
+        "subject": "Physical Education",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  },
+  "XII-B": {
+    "MON": {
+      "1": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "2": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP025",
+        "teacher_name": "Rekha Sinha"
+      },
+      "3": {
+        "subject": "Physics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP012",
+        "teacher_name": "Arvind Kumar"
+      },
+      "5": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "6": null
+    },
+    "TUE": {
+      "1": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "2": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP025",
+        "teacher_name": "Rekha Sinha"
+      },
+      "3": {
+        "subject": "Physics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP012",
+        "teacher_name": "Arvind Kumar"
+      },
+      "5": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "6": null
+    },
+    "WED": {
+      "1": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "2": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP025",
+        "teacher_name": "Rekha Sinha"
+      },
+      "3": {
+        "subject": "Physics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP012",
+        "teacher_name": "Arvind Kumar"
+      },
+      "5": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "6": null
+    },
+    "THU": {
+      "1": {
+        "subject": "Computer Science",
+        "teacher_id": "EMP022",
+        "teacher_name": "Abhishek Kumar"
+      },
+      "2": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP025",
+        "teacher_name": "Rekha Sinha"
+      },
+      "3": {
+        "subject": "Physics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP012",
+        "teacher_name": "Arvind Kumar"
+      },
+      "5": {
+        "subject": "English",
+        "teacher_id": "EMP004",
+        "teacher_name": "Nidhi Verma"
+      },
+      "6": null
+    },
+    "FRI": {
+      "1": null,
+      "2": {
+        "subject": "Chemistry",
+        "teacher_id": "EMP025",
+        "teacher_name": "Rekha Sinha"
+      },
+      "3": {
+        "subject": "Physics",
+        "teacher_id": "EMP023",
+        "teacher_name": "Manoj Kumar"
+      },
+      "4": {
+        "subject": "Mathematics",
+        "teacher_id": "EMP012",
+        "teacher_name": "Arvind Kumar"
+      },
+      "5": {
+        "subject": "Physical Education",
+        "teacher_id": "EMP027",
+        "teacher_name": "Ajay Thakur"
+      },
+      "6": null
+    },
+    "SAT": {
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    }
+  }
+}
