@@ -6,6 +6,13 @@ def rank_classes(classes):
         reverse=True
     )
 
+
+def class_rank_map(classes):
+    return {
+        cls["class_name"]: cls["rank"]
+        for cls in classes
+    }
+
 def rank_teachers(teachers):
     '''Sort teachers based on :
     1. Least flexibility first
