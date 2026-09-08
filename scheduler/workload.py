@@ -26,7 +26,3 @@ def assign_workload(workload, teacher, class_section, subject, day=None):
 
 def daily_workload(workload, teacher_id, day):
     return workload[teacher_id]["daily_periods"].get(day, 0)
-
-
-def weekly_workload(workload, teacher_id):
-    return workload[teacher_id]["weekly_periods"]

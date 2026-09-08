@@ -8,7 +8,6 @@ from scheduler.validator import (
     validate_timetable,
     find_teacher_clashes,
     find_availability_violations,
-    find_daily_load_violations,
     find_eligibility_violations,
     find_subject_lock_violations,
     find_missing_subjects,
